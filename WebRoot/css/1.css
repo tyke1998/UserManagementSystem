@@ -1,0 +1,24 @@
+.box1{
+				color:red;
+				border:10px solid #999999;
+				padding:50px;
+				font-size:42px;  
+				border-radius:100px; 
+				border-width:20px;
+				margin:40px; 
+				width:300px;
+				
+				
+			}
+			.box2{
+				color:red;
+				border:10px solid #999999;
+				padding:50px;
+				font-size:42px;  
+				border-radius:100px; 
+				border-width:20px;
+				margin:40px; 
+				width:300px;
+				margin-right:10px;
+				margin-bottom:100px;
+			}
